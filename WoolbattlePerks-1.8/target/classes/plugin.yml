@@ -1,0 +1,8 @@
+name: WoolbattlePerks-1.8
+version: '1.0-SNAPSHOT'
+main: me.mishiko_kun_phd50.woolbattleperks1.WoolbattlePerks_1
+api-version: '1.16'
+commands:
+  getperk:
+    description: get perk
+    usage: /getperk <perk name>
